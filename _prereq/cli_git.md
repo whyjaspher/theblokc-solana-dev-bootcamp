@@ -1,1 +1,2 @@
-# CLI and GIT 
+# BOOTCAMP SESSION: CLI & GIT
+
